@@ -1,10 +1,5 @@
 # Leaked System Prompts Collection
 
-[![Repository Size](https://img.shields.io/github/repo-size/JoshKCIT/ai_system_prompts_leaked_main)](https://github.com/JoshKCIT/ai_system_prompts_leaked_main)JoshKCIT/ai_system_prompts_leaked_main/main)](https://github.com/JoshKCIT/ai_system_prompts_leaked_main/commits/main)
-[![License](https://img.shields.io/badge/license-Research-purple.svg)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/JoshKCIT/ai_system_prompts_leaked_main)](https://github.com/JoshKCIT/ai_system_prompts_leaked_main/graphs/contributors)
-[![Stars](https://img.shields.io/github/stars/JoshKCIT/ai_system_prompts_leaked_main)](https://github.com/JoshKCIT/ai_system_prompts_leaked_main/stargazers)
-
 > ⚠️ **Important Notice**: All prompts in this repository are sourced from various public locations, leaks, and reverse engineering efforts. This repository serves as an archive and research resource. Use responsibly and in accordance with applicable laws and terms of service.
 
 ## 📚 Overview
